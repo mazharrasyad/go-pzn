@@ -1,7 +1,3 @@
-# Referensi
-
-- https://kelas.programmerzamannow.com/p/pemrograman-go-lang-untuk-pemula-sampai-mahir
-
 # Materi
 
 1. Golang Dasar
